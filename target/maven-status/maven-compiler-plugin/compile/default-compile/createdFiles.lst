@@ -1,0 +1,14 @@
+visfx\graph\VisNode.class
+visfx\graph\VisGraph.class
+sed\test\visfxtesttwo\SystemInfo.class
+visfx\examples\ComplexGraph.class
+visfx\examples\TwoNodeGraph.class
+sed\test\visfxtesttwo\Link.class
+module-info.class
+visfx\gui\GraphView.class
+visfx\jsonutils\VisEdgeAdapter.class
+sed\test\visfxtesttwo\MyNode.class
+visfx\graph\VisEdge.class
+visfx\api\VisFx.class
+sed\test\visfxtesttwo\App.class
+visfx\gui\Browser.class

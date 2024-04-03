@@ -1,0 +1,462 @@
+[
+  {
+    "node_id": 1,
+    "node_name": "Life on Earth",
+    "child_nodes": 4,
+    "leaf_node": 0,
+    "tolorg_link": 1,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 2,
+    "node_name": "Eubacteria",
+    "child_nodes": 24,
+    "leaf_node": 0,
+    "tolorg_link": 1,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 3,
+    "node_name": "Eukaryotes",
+    "child_nodes": 6,
+    "leaf_node": 0,
+    "tolorg_link": 1,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 4,
+    "node_name": "Archaea",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 1,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 1
+  },
+  {
+    "node_id": 5,
+    "node_name": "Viruses",
+    "child_nodes": 6,
+    "leaf_node": 0,
+    "tolorg_link": 1,
+    "extinct": 0,
+    "confidence": 2,
+    "phylesis": 1
+  },
+  {
+    "node_id": 7,
+    "node_name": "Korarchaeota",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 8,
+    "node_name": "none",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 9,
+    "node_name": "Crenarchaeota",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 1,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 10,
+    "node_name": "Euryarchaeota",
+    "child_nodes": 7,
+    "leaf_node": 0,
+    "tolorg_link": 1,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 12,
+    "node_name": "none",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 13,
+    "node_name": "Thermofilum",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 14,
+    "node_name": "none",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 15,
+    "node_name": "Pyrobaculum",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 16,
+    "node_name": "Thermoproteus",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 17,
+    "node_name": "none",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 18,
+    "node_name": "none",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 19,
+    "node_name": "Sulfolobus",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 20,
+    "node_name": "none",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 21,
+    "node_name": "Metallosphaera",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 22,
+    "node_name": "Acidianus",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 23,
+    "node_name": "none",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 24,
+    "node_name": "none",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 25,
+    "node_name": "none",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 26,
+    "node_name": "Thermodiscus",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 27,
+    "node_name": "Igneococcus",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 28,
+    "node_name": "none",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 29,
+    "node_name": "none",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 30,
+    "node_name": "Thermosphaera",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 31,
+    "node_name": "Desulfurococcus",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 32,
+    "node_name": "Staphylothermus",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 33,
+    "node_name": "none",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 34,
+    "node_name": "Pyrolobus",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 35,
+    "node_name": "none",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 36,
+    "node_name": "Hyperthermus",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 37,
+    "node_name": "Pyrodictium",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 39,
+    "node_name": "none",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 40,
+    "node_name": "Halobacteriales",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 41,
+    "node_name": "Methanomicrobiales",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 42,
+    "node_name": "Methanobacteriales",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 43,
+    "node_name": "Methanococcales",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 44,
+    "node_name": "Methanopyrales",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 45,
+    "node_name": "Archeoglobales",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 46,
+    "node_name": "Thermoplasmales",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 47,
+    "node_name": "Thermococcales",
+    "child_nodes": 0,
+    "leaf_node": 0,
+    "tolorg_link": 0,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 49,
+    "node_name": "Paussinae",
+    "child_nodes": 2,
+    "leaf_node": 0,
+    "tolorg_link": 1,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  },
+  {
+    "node_id": 50,
+    "node_name": "Nototylus fryi",
+    "child_nodes": 0,
+    "leaf_node": 1,
+    "tolorg_link": 1,
+    "extinct": 0,
+    "confidence": 0,
+    "phylesis": 0
+  }
+]
